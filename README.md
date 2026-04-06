@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Ali 👋
 
-<!--
-**AliAyman101190/AliAyman101190** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student @ Purdue & EUI  
+Focused on Machine Learning, Robotics, and Backend Systems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Work On
+- 🤖 Autonomous systems (ROS 2, MAVROS)
+- 🧠 Machine Learning & Reinforcement Learning
+- ☁️ Scalable backend systems (AWS, APIs, CI/CD)
+
+---
+
+## 🔥 Featured Projects
+
+### 🚁 Autonomous Drone Navigation
+End-to-end autonomous drone system (perception → planning → control) using ROS 2 and Gazebo.
+
+### ☁️ AWS ML Model Registry
+Serverless ML infrastructure for model ingestion, evaluation, and ranking using AWS Lambda and REST APIs.
+
+### 🧠 RL Fighting Agent
+Comparative analysis of RL algorithms (PPO, PPG, DQN), achieving ~90% win rate.
+
+---
+
+## 🛠️ Tech Stack
+Python • PyTorch • ROS 2 • AWS • PostgreSQL • Docker • CI/CD
+
+---
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/ali-omar-3a990129a/
+- Email: aliayman3479@gmail.com
